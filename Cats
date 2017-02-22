@@ -6,21 +6,5 @@
 	<link href="styles/style.css" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
   </head>
-  <body>
-    <h1> cats </h1>
-    <h2> cats </h2>
-      <img src="images/cute-cat-13.jpg" alt="Kitty Yawning">
-<h3> Cats</h3>
-<p> cats cats cats cats. </p>
-<p> cats cats cats cats:</p>
-<p>catz cat cat catsz zcatscats</p>
-	<u1>
-	<li>cats</li>
-	<li>cats</li>
-	<li>cats</li>
-    </ul>
-<p>cats cats cats cats cats cats cats catscats.</p>
-	<a href="https://en.wikipedia.org/wiki/Cat">Cats Cats Cats Cats</a>
-<script src="scripts/main.js"></script>
   </body>
 </html>
